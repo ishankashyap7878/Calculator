@@ -1,0 +1,238 @@
+.outermost {
+    width: 500px;
+    height: auto;
+    border: 1px solid;
+    border-color: brown;
+    margin: auto;
+    margin-top: 80px;
+    background-color: rgb(128, 118, 118);
+}
+.name{
+    width: 100%;
+    height:auto;
+    background-color: chocolate;
+    padding-top: 3px;
+    padding-bottom:3px;
+}
+.name1{
+    font-size: 38px;
+    font-weight: bolder;
+    margin: auto;
+    text-align: center;
+}
+.block{
+    height:auto;
+    justify-content: space-around;
+}
+.display{
+    position:relative;
+    padding:3px;
+}
+.display_box{
+    position: relative;
+    width: auto;
+    height:70px;
+    background-color: rgba(230, 221, 221, 0.719);
+    margin: auto;
+}
+.first_row{
+    position: relative;
+    height:auto;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.second_row{
+    position: relative;
+    height:auto;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.third_row{
+    position: relative;
+    height:auto;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.fourth_row{
+    position: relative;
+    height:auto;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.fifth_row{
+    position: relative;
+    height:auto;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.one{
+    position: relative;
+    width:24%;
+    background-color: ghostwhite;
+}
+.one_zero{
+    position: relative;
+    width:49%;
+    background-color: ghostwhite;
+}
+.two{
+    position: relative;
+    width:24%;
+    background-color: ghostwhite;
+}
+.three{
+    position: relative;
+    width:24%;
+    background-color: ghostwhite;
+}
+.three_fifth{
+    position: relative;
+    width:24%;
+    background-color: rgb(197, 58, 58);
+}
+.four{
+    position: relative;
+    margin-left: ;
+    background-color: rgb(197, 58, 58);
+    width:24%;
+}
+.one:hover{
+    color:#ffa500;
+    background-color: rgb(59, 56, 58);
+}
+.two:hover{
+    color:#ffa500;
+    background-color: rgb(59, 56, 58);
+}
+
+.three:hover{
+    color:#ffa500;
+    background-color: rgb(59, 56, 58);
+}
+.four:hover{
+    color:#ffa500;
+    background-color: rgb(59, 56, 58);
+}
+.one_zero:hover{
+    color:#ffa500;
+    background-color: rgb(59, 56, 58);
+}
+.three_fifth:hover{
+    color:#ffa500;
+    background-color: rgb(59, 56, 58);
+}
+.AC{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.sign{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.percent{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.divide{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.seven{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.eight{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.nine{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.mul{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.Four{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.five{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.six{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.minus{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.One{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.Two{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.Three{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.dot{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.zero{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.plus{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.equal{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
